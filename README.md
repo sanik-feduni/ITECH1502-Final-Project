@@ -42,7 +42,7 @@ The goal was to identify phishing indicators, apply the **NIST Cybersecurity Fra
 |--------|-------------|
 | `/report` | Contains full 5-page report (`final-report.pdf`) |
 | `/slides` | Contains presentation slides (`presentation.pptx`) |
-| `/evidence` | Contains 8 verified screenshots |
+| `/evidence` | Contains 8 verified screenshots in final report|
 
 ---
 
