@@ -32,7 +32,7 @@ The goal was to identify phishing indicators, apply the **NIST Cybersecurity Fra
 | Final Task List | All tasks marked completed | 7 |
 | Profile Verification | My TryHackMe account: *shafiullahanik03 [NEOPHYTE]* | 8 |
 
-📂 **All screenshots are available in the [`/evidence`](./evidence) folder.**
+📂 **All screenshots are available in the final report.**
 
 ---
 
