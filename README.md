@@ -56,8 +56,7 @@ Completing the lab improved my technical accuracy, attention to detail, and docu
 
 ## 🔗 Links
 - **TryHackMe Room:** [Phishing Emails in Action](https://tryhackme.com)  
-- **LinkedIn Portfolio:** [linkedin.com/in/shafiullah-anik-252bb2378](https://www.linkedin.com/in/shafiullah-anik-252bb2378)  
-- **Contact:** [Your FedUni Email]  
+- **Contact:** sanik@students.federation.edu.au 
 
 ---
 
